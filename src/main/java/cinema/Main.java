@@ -58,9 +58,7 @@ public class Main {
 
         User user = authenticationService.register("vova", "123");
         shoppingCartService.addSession(movieSessionService.get(1L), user);
-
         orderService.completeOrder(shoppingCartService.getByUser(user));
         System.out.println(shoppingCartService.getByUser(user).getTickets());
-
     }
 }
