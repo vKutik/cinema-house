@@ -1,5 +1,6 @@
 #Cinema app
 
+---
 This is application implemented
 on the Spring and Hibernate frameworks. In which
 there is an opportunity to buy a ticket to the cinema in
