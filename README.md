@@ -1,6 +1,6 @@
 #Cinema app
 
-<img src="resources/cinema.png"/>
+<img src="resources/cinema.jpg"/>
 
 This is application implemented
 on the Spring and Hibernate frameworks. In which
@@ -17,4 +17,4 @@ The application has 3 layers
     *Controller
 
 
-<img src="resources/cinema.png"/>
+<img src="resources/table.png"/>
