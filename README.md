@@ -17,4 +17,4 @@ The application has 3 layers
     *Controller
 
 
-<img src="resources/table.png"/>
+<img src="resources/src/main/resources/table.png"/>
